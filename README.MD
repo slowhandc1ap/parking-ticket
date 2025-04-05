@@ -28,7 +28,22 @@ Built with a powerful combination of **.NET Core Web API** (C#) for the backend 
 
 ## 📁 Project Structure
 
- ``` /parking-pass-system/ ├── backend/ # .NET Core Web API │ ├── Controllers/ │ ├── Models/ │ ├── Data/ │ └── Program.cs │ ├── frontend/ # Vue.js + Tailwind │ ├── src/ │ ├── components/ │ └── views/ │ ├── README.md └── .gitignore ```
+ <pre>
+/parking-pass-system/
+├── backend/                 # .NET Core Web API
+│   ├── Controllers/
+│   ├── Models/
+│   ├── Data/
+│   └── Program.cs
+│
+├── frontend/                # Vue.js + Tailwind
+│   ├── src/
+│   ├── components/
+│   └── views/
+│
+├── README.md
+└── .gitignore
+</pre>
 
 ---
 
