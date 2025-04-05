@@ -5,6 +5,7 @@ Built with a powerful combination of **.NET Core Web API** (C#) for the backend 
 
 ---
 ![Image](https://github.com/user-attachments/assets/2509494d-efd4-4048-952b-b7fd46c9f02e)
+![Image](https://github.com/user-attachments/assets/1ff19319-5c73-4b71-8354-6551cc349f31)
 ## ✨ Key Features
 
 - 🎟️ Generate digital parking passes with just a few clicks.
