@@ -1,4 +1,4 @@
-# 🎫 Parking Pass Management System
+# 🎫 Parking Pass Management System C-R-U-D
 
 A sleek and modern full-stack web application designed to manage parking passes with ease.  
 Built with a powerful combination of **.NET Core Web API** (C#) for the backend and **Vue.js** with **Tailwind CSS** for the frontend. Inspired by real-world parking workflows, this project balances functionality with a touch of artistic flair.
