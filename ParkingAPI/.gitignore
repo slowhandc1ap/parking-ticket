@@ -1,0 +1,48 @@
+## Build Results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider files
+.idea/
+
+## VSCode settings (ถ้ามี)
+.vscode/
+
+## Logs
+*.log
+
+## Entity Framework migrations temp
+**/MigrationsSnapshot.cs
+**/*.designer.cs
+
+## Secrets & Sensitive Configs
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json  # ถ้าอยาก ignore หลาย environment ที่เป็น local config
+
+## Database files
+*.mdf
+*.ldf
+
+## publish / build outputs
+publish/
+out/
+
+## Backup & temp files
+*.bak
+*.tmp
+*.temp
+
+## OS-generated
+.DS_Store
+Thumbs.db
+
+## Dotnet tools
+*.db
+.dotnet/
