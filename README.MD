@@ -4,7 +4,7 @@ A sleek and modern full-stack web application designed to manage parking passes 
 Built with a powerful combination of **.NET Core Web API** (C#) for the backend and **Vue.js** with **Tailwind CSS** for the frontend. Inspired by real-world parking workflows, this project balances functionality with a touch of artistic flair.
 
 ---
-https://private-user-images.githubusercontent.com/120072774/430608313-84ce17f8-5768-4f0e-8533-6243bdd1ac67.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NDUwNDUsIm5iZiI6MTc0Mzg0NDc0NSwicGF0aCI6Ii8xMjAwNzI3NzQvNDMwNjA4MzEzLTg0Y2UxN2Y4LTU3NjgtNGYwZS04NTMzLTYyNDNiZGQxYWM2Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQwOTE5MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNDZjZDk2YjQ5YjBmMmU5ZDU2Y2Q4MzJhNjA5NTMwYTk2ODA0MDk0Y2YzNDAyNGUxMTM1NjBkNjBjYWMxMWY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._L7IFxLnR-MthrHAJZ8XMvTb-c0XRf4Jci6ZdyxlZOQ
+![Image](https://github.com/user-attachments/assets/2509494d-efd4-4048-952b-b7fd46c9f02e)
 ## ✨ Key Features
 
 - 🎟️ Generate digital parking passes with just a few clicks.
